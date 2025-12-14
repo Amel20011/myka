@@ -1,0 +1,13 @@
+{
+  "name": "astheric-bot",
+  "version": "2.0.0",
+  "description": "Multi Device WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["whatsapp", "bot", "multi-device"],
+  "author": "Astheric",
+  "license": "MIT"
+}
